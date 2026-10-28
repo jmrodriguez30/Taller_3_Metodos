@@ -1,0 +1,7 @@
+---
+title: "Ejercicios de Regresión Lineal"
+author: "Sergio Cuello y Juanmanuelle Rodríguez"
+date: "Octubre 2026"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+---
